@@ -7,4 +7,15 @@ prints the last n lines. The program should behave rationally no matter how unre
 
 Compile Steps: 
 
+gcc hw6q2.c -o hw6q2.exe
+
 Output:
+
+ex. for ./hw6q2.exe -6 < hw6q2.c
+        allocp += n;
+        return allocp - n;
+    }
+    else
+        return 0;
+}
+
