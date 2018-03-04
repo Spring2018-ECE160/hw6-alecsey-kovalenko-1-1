@@ -6,4 +6,17 @@ Also, add the option -f to fold upper and lower case together, so that case dist
 
 Compile Steps:
 
+gcc hw6q3.c -o hw6q3.exe
+
 Output:
+
+ex. ./hw6q3.exe -r < sort.c
+
+n: 0, r: 1, f: 0
+
+dog
+cat
+banana
+apple
+Cow
+Arid

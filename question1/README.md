@@ -10,4 +10,13 @@ Provide and print out 3 examples to show that your function is working as intend
 
 Compile Steps: 
 
+gcc hw6q1.c -o hw6q1.exe
+
 Output:
+
+Array 1
+Minimum = 1, Maximum = 6
+Array 2
+Minimum = 20, Maximum = 96
+Array 3
+Minimum = 20, Maximum = 839
